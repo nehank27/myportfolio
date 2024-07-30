@@ -1,17 +1,17 @@
 export const personalData = {
   name: "Nehan Khan",
-  profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
-}
+  profile: '/profile.jpg',
+  designation: "Software Engineer",
+  description: "My name is Nehan Khan, I am a computer science student at Rutgers University and an aspiring software engineer. I am currently a software engineering fellow at Headstarter AI, where I am learning the latest AI technologies and gathering valuable career advice. When I am not on the computer, you can find me on a hike, in the gym, or in the kitchen trying out a new recipe.",
+  email: 'nehan.khan@rutgers.edu',
+  phone: '732-427-2540',
+  address: 'New Brunswick, New Jersey ',
+  github: 'https://github.com/nehank27',
+  facebook: 'https://www.facebook.com/nehank/',
+  linkedIn: 'https://www.linkedin.com/in/nehan-khan/',
+  twitter: 'https://twitter.com/nehank',
+  stackOverflow: 'https://stackoverflow.com/users/16840768/nehank',
+  leetcode: "https://leetcode.com/nehank/",
+  devUsername: "nehank27",
+  resume: "https://drive.google.com/file/d/1qr05Edeq25RvtMagzzqyhscSPcoIwQBj/view?usp=sharing"
+} 
