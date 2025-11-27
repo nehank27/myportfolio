@@ -3,7 +3,7 @@ export const personalData = {
   profile: '/profile.jpg',
   designation: "Software Engineer",
   description: "My name is Nehan Khan, I am a computer science student at Rutgers University and an aspiring software engineer. I am currently a software engineering fellow at Headstarter AI, where I am learning the latest AI technologies and gathering valuable career advice. When I am not on the computer, you can find me on a hike, in the gym, or in the kitchen trying out a new recipe.",
-  email: 'nehan.khan@rutgers.edu',
+  email: 'nehankhan.dev@gmail.com',
   phone: '000-000-0000',
   address: 'New Brunswick, New Jersey ',
   github: 'https://github.com/nehank27',
@@ -13,5 +13,5 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/16840768/nehank',
   leetcode: "https://leetcode.com/nehank/",
   devUsername: "nehank27",
-  resume: "https://drive.google.com/file/d/1HdWR8FWI_1zFkZF-gUA3BUQCbGIk6kyM/view?usp=sharing"
+  resume: "https://drive.google.com"
 } 
